@@ -17,7 +17,7 @@ function carregar(){
         document.body.style.background = '#753859'
     } else {
         //Boa noite
-        msg.innerHTML = `Boa noite! Agora são ${horas} horas.`
+        msg.innerHTML = `Boa noite! Agora são ${hora} horas.`
         img.src = 'imagens/foto-noite.png'
         document.body.style.background = '#13223F'
     }
